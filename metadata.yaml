@@ -1,0 +1,25 @@
+_repo: The-Star-People_37916
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37916-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnson, Gaylord
+    gutenberg_agent_id: '39131'
+    url: http://www.gutenberg.org/2009/agents/39131
+description: ''
+gutenberg_issued: '2011-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37916'
+  lccn: '21011593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy -- Juvenile literature'
+title: The Star People
+url: http://www.gutenberg.org/ebooks/37916
